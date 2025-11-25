@@ -93,7 +93,7 @@ To playtest the game, run the `main.py` file and play the game as you would norm
 📸 Screenshots
 -------------
 The F1 Arcade Replay project includes the following screenshots:
-* **Gameplay screenshot**: [Game Preview](preview.png)
+* **Gameplay screenshot**: ![Game Preview](preview.png)
 
 📦 API Reference
 -------------
