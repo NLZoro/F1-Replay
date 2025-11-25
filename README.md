@@ -92,7 +92,7 @@ To playtest the game, run the `main.py` file and play the game as you would norm
 
 📸 Screenshots
 -------------
-The F1 Arcade Replay project includes the following screenshots:
+The F1 Arcade Replay project includes the following screenshot:
 * **Gameplay screenshot**: ![Game Preview](preview.png)
 
 📦 API Reference
@@ -103,4 +103,4 @@ The F1 Arcade Replay project includes the following API reference:
 
 👤 Author
 -------
-The F1 Arcade Replay project was created by [Yours Truly].
+The F1 Arcade Replay project was created by [Yours Truly](https://github.com/NLZoro).
