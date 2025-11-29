@@ -103,4 +103,4 @@ The F1 Arcade Replay project includes the following API reference:
 
 👤 Author
 -------
-The F1 Arcade Replay project was created by [Yours Truly](https://github.com/NLZoro).
+The F1 Arcade Replay project was created by tom.dev.
