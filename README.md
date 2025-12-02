@@ -101,6 +101,3 @@ The F1 Arcade Replay project includes the following API reference:
 * **FastF1 API**: The game uses the FastF1 API to fetch and process real-world Formula 1 data.
 * **Arcade API**: The game uses the Arcade API to create the game's graphics and gameplay.
 
-👤 Author
--------
-The F1 Arcade Replay project was created by [Yours Truly](https://github.com/NLZoro).
